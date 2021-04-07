@@ -6,7 +6,7 @@
 
 A seguinte sequência iterativa é definida pelo conjunto de inteiros positivos onde:
 
-n = n/2 (se n é par)
+n = n/2 (se n é par) <br />
 n = 3n + 1 (se n é impar)
 
 Por exemplo, usando as regras acima e começando pelo número 13, nós geraríamos a seguinte sequência:
