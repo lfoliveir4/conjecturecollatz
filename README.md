@@ -2,10 +2,12 @@
 
 ![enter image description here](https://wikimedia.org/api/rest_v1/media/math/render/svg/08684219726f0db88abf979ef17e43ab9373cc87)
 
+clone:
 ```
 git clone 
 ```
 
+run:
 ```
 node index.js
 ```
