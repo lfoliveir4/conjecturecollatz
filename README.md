@@ -2,6 +2,13 @@
 
 ![enter image description here](https://wikimedia.org/api/rest_v1/media/math/render/svg/08684219726f0db88abf979ef17e43ab9373cc87)
 
+```
+git clone 
+```
+
+```
+node index.js
+```
 
 
 A seguinte sequência iterativa é definida pelo conjunto de inteiros positivos onde:
